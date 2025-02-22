@@ -1,0 +1,27 @@
+.ant-card-skeleton {
+    width: 240px;
+}
+
+.details-card {
+    min-width: 320px;
+}
+
+.header-main {
+    background-color: #001529;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 1rem;
+    white-space: nowrap;
+}
+
+.header-title {
+    color: #fff;
+    margin: 0;
+    cursor: pointer;
+}
+
+.no-characters-wrapper {
+    height: 20rem;
+}
+
