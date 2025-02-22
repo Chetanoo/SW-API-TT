@@ -9,4 +9,5 @@ export default defineConfig({
     environment: "jsdom",
     setupFiles: "./setupTests.tsx",
   },
+  base: "SW-API-TT",
 });
